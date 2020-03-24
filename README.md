@@ -1,5 +1,6 @@
 # A meta-analysis of Wolbachia transcriptomics reveals a stage-specific Wolbachia transcriptional response shared across different hosts
 20200324 | Matthew Chung  
+[![DOI](https://zenodo.org/badge/249815173.svg)](https://zenodo.org/badge/latestdoi/249815173)
 
 # Table of Contents
 
